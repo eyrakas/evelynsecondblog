@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Evelyn's Second Blog Theme
-  tagline: Developer. Designer
+  title: Evelyn's other Blog Theme
+  tagline: student
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
